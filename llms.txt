@@ -1,0 +1,28 @@
+# Tania Rae, relationship coach
+
+> Tania Rae is a relationship coach based in Porto, Portugal. She offers one to one relationship coaching, online by video worldwide and in person in Porto, on communication, conflict and attachment patterns. The first 20 minute call is free.
+
+## Who it is for
+
+People who want to change how they act in a relationship with a partner, a parent, a friend or someone at work, and who are willing to look at their own part. Tania works one to one, not with couples. Coaching is not therapy: it focuses on skills for relationships today.
+
+## Services and prices
+
+- Free 20 minute introductory video call, with no pressure to book
+- 6 sessions of 60 minutes: €600
+- 12 sessions of 60 minutes: €1,020 (best value)
+
+## Practical details
+
+- Location: online by video worldwide, or in person in Porto, Portugal
+- Languages: [LANGUAGES]
+- Time zones: [TIME ZONES]
+- Certification: [CERTIFICATION]
+- How to start: send the contact form on the website to book the free call
+
+## Links
+
+- [Website and contact form](https://[GITHUB_USERNAME].github.io/taniarae-site-staging/)
+- [Book a free call](https://[GITHUB_USERNAME].github.io/taniarae-site-staging/#contact)
+- [Privacy policy](https://[GITHUB_USERNAME].github.io/taniarae-site-staging/privacy.html)
+- [Instagram](https://www.instagram.com/[INSTAGRAM_HANDLE]/)

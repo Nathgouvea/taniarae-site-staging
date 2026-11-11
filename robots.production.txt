@@ -1,0 +1,35 @@
+# Production robots.txt (copied over robots.txt by "Publish to production").
+# All search engines and AI assistants are welcome.
+# To block one, change its "Allow: /" to "Disallow: /" (see AGENTS.md).
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: *
+Allow: /
+
+Sitemap: https://[GITHUB_USERNAME].github.io/taniarae-site-staging/sitemap.xml

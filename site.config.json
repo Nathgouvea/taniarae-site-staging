@@ -1,0 +1,21 @@
+{
+  "_readme": "Values that differ between staging and production. The 'staging' values are what is written in the HTML of this repo. scripts/make-production.py swaps them for the 'production' values when you run 'Publish to production'. If you change a value here, change it in the HTML too (search for the old value).",
+  "staging": {
+    "environment": "staging",
+    "siteUrl": "https://[GITHUB_USERNAME].github.io/taniarae-site-staging/",
+    "formId": "[STAGING_FORM_ID]",
+    "formSubject": "[STAGING] New message from your website",
+    "noindex": true
+  },
+  "production": {
+    "environment": "production",
+    "siteUrl": "https://[DOMAIN]/",
+    "formId": "[PRODUCTION_FORM_ID]",
+    "formSubject": "New message from your website",
+    "noindex": false
+  },
+  "shared": {
+    "instagramHandle": "[INSTAGRAM_HANDLE]",
+    "contactEmail": "[CONTACT_EMAIL]"
+  }
+}

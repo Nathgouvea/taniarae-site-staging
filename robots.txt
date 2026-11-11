@@ -1,0 +1,3 @@
+# STAGING: keep every crawler out. Production gets robots.production.txt instead.
+User-agent: *
+Disallow: /

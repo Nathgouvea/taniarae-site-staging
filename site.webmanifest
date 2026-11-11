@@ -1,0 +1,12 @@
+{
+  "name": "Tania Rae, relationship coach",
+  "short_name": "Tania Rae",
+  "start_url": "./",
+  "display": "browser",
+  "background_color": "#FBF8F1",
+  "theme_color": "#FBF8F1",
+  "icons": [
+    { "src": "assets/images/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/images/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
