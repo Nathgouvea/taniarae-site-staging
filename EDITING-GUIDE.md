@@ -8,7 +8,7 @@ in plain words. This guide shows you how, and what to ask.
 1. **Ask your bot for the change.** It edits the *staging* copy of your site
    (the practice version). Nobody else sees it, and Google ignores it.
 2. **Look at the staging site** in your browser:
-   https://[GITHUB_USERNAME].github.io/taniarae-site-staging/
+   https://nathgouvea.github.io/taniarae-site-staging/
    It has a small dark "Staging preview" label in the bottom corner, so you
    always know where you are. Check it on your phone too. Changes can take a
    minute or two to appear.

@@ -22,7 +22,7 @@ People who want to change how they act in a relationship with a partner, a paren
 
 ## Links
 
-- [Website and contact form](https://[GITHUB_USERNAME].github.io/taniarae-site-staging/)
-- [Book a free call](https://[GITHUB_USERNAME].github.io/taniarae-site-staging/#contact)
-- [Privacy policy](https://[GITHUB_USERNAME].github.io/taniarae-site-staging/privacy.html)
+- [Website and contact form](https://nathgouvea.github.io/taniarae-site-staging/)
+- [Book a free call](https://nathgouvea.github.io/taniarae-site-staging/#contact)
+- [Privacy policy](https://nathgouvea.github.io/taniarae-site-staging/privacy.html)
 - [Instagram](https://www.instagram.com/[INSTAGRAM_HANDLE]/)

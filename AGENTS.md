@@ -142,7 +142,7 @@ Fonts: `--font-body` (Figtree), `--font-serif` (Instrument Serif),
 
 ## 5. Staging → production
 
-- Staging: `https://[GITHUB_USERNAME].github.io/taniarae-site-staging/`
+- Staging: `https://nathgouvea.github.io/taniarae-site-staging/`
   (noindex, `robots.txt` blocks all, "Staging preview" ribbon, `[STAGING]` email subject).
 - Production: `https://[DOMAIN]/`.
 

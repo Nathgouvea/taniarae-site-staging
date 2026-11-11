@@ -32,4 +32,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://[GITHUB_USERNAME].github.io/taniarae-site-staging/sitemap.xml
+Sitemap: https://nathgouvea.github.io/taniarae-site-staging/sitemap.xml
