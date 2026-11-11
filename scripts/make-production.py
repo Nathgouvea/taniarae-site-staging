@@ -8,7 +8,7 @@ taniarae-site repo. You can also run it locally to preview the result:
 
 What it does:
   1. Deletes the previously published site files from the production folder
-     (it keeps .git, .github, CNAME and README.md).
+     (it keeps .git, .github, .gitattributes, CNAME and README.md).
   2. Copies the site files from staging (see SITE_FILES).
   3. Removes every <!-- STAGING-ONLY --> ... <!-- /STAGING-ONLY --> block
      (noindex tag, staging ribbon).
@@ -38,7 +38,7 @@ SITE_FILES = [
     "site.webmanifest",
     ".nojekyll",
 ]
-KEEP_IN_PRODUCTION = {".git", ".github", "CNAME", "README.md"}
+KEEP_IN_PRODUCTION = {".git", ".github", ".gitattributes", "CNAME", "README.md"}
 TEXT_SUFFIXES = {".html", ".xml", ".txt", ".webmanifest", ".json", ".css", ".js", ".md"}
 
 STAGING_BLOCK = re.compile(r"[ \t]*<!-- STAGING-ONLY -->.*?<!-- /STAGING-ONLY -->[ \t]*\n?", re.S)
