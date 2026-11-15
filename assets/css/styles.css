@@ -96,6 +96,7 @@
    3. BASE
    ========================================================================= */
 *, *::before, *::after { box-sizing: border-box; }
+[hidden] { display: none !important; }  /* the hidden attribute always wins over display rules */
 body {
   margin: 0;
   background: var(--color-paper);
