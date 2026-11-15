@@ -3,14 +3,14 @@
   "staging": {
     "environment": "staging",
     "siteUrl": "https://nathgouvea.github.io/taniarae-site-staging/",
-    "formId": "[STAGING_FORM_ID]",
+    "formId": "mzerebvd",
     "formSubject": "[STAGING] New message from your website",
     "noindex": true
   },
   "production": {
     "environment": "production",
     "siteUrl": "https://[DOMAIN]/",
-    "formId": "[PRODUCTION_FORM_ID]",
+    "formId": "xoedeqld",
     "formSubject": "New message from your website",
     "noindex": false
   },
