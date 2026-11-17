@@ -81,8 +81,7 @@ Ask your bot to replace these when you have the answers:
 - `[ONE REAL, SPECIFIC DETAIL]`: what you do when you're not working
 - `[LANGUAGES]`: languages you coach in
 - `[TIME ZONES]`: time zones you can serve
-- In the privacy policy: `[EMAIL PROVIDER]` and how long you keep messages (`[6 MONTHS]`),
-  then ask the bot to remove the "Draft" note once you (or a lawyer) have checked it.
+- The privacy policy is filled in (Formspree + Gmail, messages kept 6 months). Ask the bot to update it if anything changes, for example if you start a newsletter or add analytics.
 
 ## Suggested Instagram bio (same words as the website)
 
